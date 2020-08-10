@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3b7cb53d9097f89eb7af0eb209934fd",
+    "revision": "49998d4f63086fca6b55ff8a42bef918",
     "url": "/React-based-projects/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-based-projects/static/css/2.ceb79488.chunk.css"
   },
   {
-    "revision": "5e5e3600be565c9aa0e2",
-    "url": "/React-based-projects/static/css/main.2bc04692.chunk.css"
+    "revision": "d00df637315cf8914871",
+    "url": "/React-based-projects/static/css/main.a6e73a07.chunk.css"
   },
   {
     "revision": "a433c015aead4d35c53b",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-based-projects/static/js/2.9a0ce61a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e5e3600be565c9aa0e2",
+    "revision": "d00df637315cf8914871",
     "url": "/React-based-projects/static/js/main.be934546.chunk.js"
   },
   {
@@ -48,7 +48,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-based-projects/static/media/5.2b41aec2.jpg"
   },
   {
+    "revision": "7605cdd7334a69fff567ed4c5fe107b6",
+    "url": "/React-based-projects/static/media/6.7605cdd7.jpg"
+  },
+  {
+    "revision": "5ada5cd2588328fd8e95ec6663850ca6",
+    "url": "/React-based-projects/static/media/Light wallpaper.5ada5cd2.jpg"
+  },
+  {
+    "revision": "f8f1461a3ef2ebc855f379e1314f0171",
+    "url": "/React-based-projects/static/media/i love coding wallpaper.f8f1461a.jpg"
+  },
+  {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/React-based-projects/static/media/logo.5d5d9eef.svg"
+  },
+  {
+    "revision": "939ef7e9c6db0c0dd355d47dbc8c81cb",
+    "url": "/React-based-projects/static/media/wallpapersden.com_superman-amoled_3840x2160.939ef7e9.jpg"
   }
 ]);
