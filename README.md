@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Open the website
+
+https://deepaksy.github.io/React-based-projects/
 
 ## Available Scripts
 
